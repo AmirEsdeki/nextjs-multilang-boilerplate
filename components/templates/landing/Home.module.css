@@ -1,0 +1,14 @@
+#mainBg {
+  background-image: url("/Assets/Landing/bg-book.png");
+}
+
+#blackBgLayer {
+  background-color: transparent;
+  background-color: rgba(54, 54, 54, 0.33);
+  height: 100%;
+}
+
+#mainLogo {
+  background-image: url("/Assets/Landing/logo@3x.png");
+  flex-basis: 7.57%;
+}
